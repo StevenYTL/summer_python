@@ -1,0 +1,31 @@
+作者http444 (No Response)看板MobileComm標題Zf3d 升級8.0 不能用gcam hdr+時間Sun Aug  5 10:16:21 2018
+
+如題
+
+看了前面有人分享升上8.0後可以裝gcam mod
+
+但是我升級後怎麼樣都沒辦法開
+
+一來
+
+Camera2 API 一樣是 limited
+
+http://i.imgur.com/OuHn5A7.jpg
+
+二來
+
+雖然可以裝gmod5 但是hdr根本沒有運作
+(理論上拍完會出現hdr processing)
+
+上網找了一下
+
+有人說hdr＋enhanced模式才是真的hdr
+
+我只要選哪個模式相機中間只出現轉圈圈不給拍
+
+想請問其他zf3d用戶都可以順利使用嗎
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.137.33.162
+※ 文章網址: https://www.ptt.cc/bbs/MobileComm/M.1533435383.A.7DF.html
+推 chinapig    : gcam其他版本多試試 08/05 10:33

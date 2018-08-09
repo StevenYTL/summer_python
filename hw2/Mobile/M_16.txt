@@ -1,0 +1,20 @@
+作者op840906 (LOVEISFOURLETTERSWORS)看板MobileComm標題[問題] 為何開啟藍芽後line會卡頓時間Sun Aug  5 11:05:08 2018
+如題
+最近發現line一直卡頓
+交叉測試後發現是藍芽的問題
+只有手機開了藍芽後，line就會異常的卡頓
+因為我常常使用藍芽設備
+想請問一下，也有版友遇到這樣的狀況嗎？
+是否有解決方法呢？
+謝謝
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.76.77.171
+※ 文章網址: https://www.ptt.cc/bbs/MobileComm/M.1533438311.A.6D6.html
+噓 zithromax   : 換成iPhone 笑死 08/05 11:23
+推 kevenshih   : 手機cpu處理器不夠快 08/05 11:59
+推 tackcalb    : 網路是行動數據還是wifi 08/05 12:30
+推 vincent0911x: 你484沒有給位置權限 ? 08/05 12:37
+推 XXPLUS      : 應該是wifi 2.4g和藍芽衝突到，手機商的問題 08/05 13:47
+推 kevinclaire : 藍芽跟wifi衝突，之前舊手機m8常常這樣 08/05 15:46
+推 tackcalb    : 樓上+1 08/05 19:31
