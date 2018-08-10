@@ -1,0 +1,20 @@
+作者lovelyinn (inn)看板MobileComm標題[問題] 大破與hinet radio 相容性問題時間Fri Aug  3 18:40:15 2018
+
+昨天入手大破 6G\64G版 感覺還好 已經更新到最新版本 但很奇怪的是 hinet radio 可以裝 可以執行 但不能播裡面的電台
+我的zenfone 5不會有這種現象
+
+可以請有大破的人 幫我試一下嗎？
+
+-----
+Sent from JPTT on my Asus ASUS_X00TDB.
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.37.163.25
+※ 文章網址: https://www.ptt.cc/bbs/MobileComm/M.1533292817.A.170.html
+※ 編輯: lovelyinn (114.37.163.25), 08/03/2018 18:42:27
+※ 編輯: lovelyinn (114.37.163.25), 08/03/2018 18:43:32
+→ wellwest    : 狀態：研磨咖啡豆 08/03 19:03
+推 jasn4560    : 高潮的太快了吧 08/03 19:21
+→ wadeken     : 我開這個app要聽電台的時候會無回應然後關閉，我也 08/03 19:21
+→ wadeken     : 是6G版的 08/03 19:21
+推 rasputin    : +1，用別的radio app就沒這問題 08/04 22:47
